@@ -1,4 +1,4 @@
-/* jAlbum 19.2 with Pluto 18.1, Light style, album creation date 1/11/20, 3:00 AM */
+/* jAlbum 19.2 with Pluto 18.1, Light style, album creation date 1/11/20, 3:44 AM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -84,7 +84,7 @@ video {
 }
 .pl-pagetitle {
 	color: #111111;
-	font-size: 22px;
+	font-size: 68px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
@@ -97,7 +97,7 @@ video {
 }
 .pl-pagedescription {
 	color: #111111;
-	font-size: 16px;
+	font-size: 24px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -110,7 +110,7 @@ video {
 .pl-pagetitleTI {
 	background-color: rgba(0,0,0,0.3);
 	color: #ffffff;
-	font-size: 36px;
+	font-size: 72px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -124,7 +124,7 @@ video {
 .pl-pagedescriptionTI {
 	background-color: rgba(0,0,0,0.3);
 	color: #ffffff;
-	font-size: 18px;
+	font-size: 36px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
