@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Suillus collinitus</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Suillus%20collinitus/</jalbum:absolutePath>
+        <item>
+            <title>DSC05836</title>
+            <link>http://tenerife-trip.cc/Fungi/Suillus%20collinitus/slides/DSC05836.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:34 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Suillus%20collinitus/thumbs/DSC05836.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Suillus%20collinitus/slides/DSC05836.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:41:37 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05836.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05837</title>
+            <link>http://tenerife-trip.cc/Fungi/Suillus%20collinitus/slides/DSC05837.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:34 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Suillus%20collinitus/thumbs/DSC05837.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Suillus%20collinitus/slides/DSC05837.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:41:46 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05837.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05838</title>
+            <link>http://tenerife-trip.cc/Fungi/Suillus%20collinitus/slides/DSC05838.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:34 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Suillus%20collinitus/thumbs/DSC05838.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Suillus%20collinitus/slides/DSC05838.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:42:03 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05838.JPG</guid>
+        </item>
+    </channel>
+</rss>

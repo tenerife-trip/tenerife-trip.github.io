@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Laurustinus (Viburnum tinus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05917</title>
+            <link>http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05917.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/thumbs/DSC05917.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05917.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 15:59:50 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05917.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05918</title>
+            <link>http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05918.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/thumbs/DSC05918.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05918.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:00:26 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05918.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05919</title>
+            <link>http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05919.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/thumbs/DSC05919.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05919.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:00:09 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05919.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05920</title>
+            <link>http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05920.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/thumbs/DSC05920.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Laurustinus%20%28Viburnum%20tinus%29/slides/DSC05920.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:00:26 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05920.JPG</guid>
+        </item>
+    </channel>
+</rss>

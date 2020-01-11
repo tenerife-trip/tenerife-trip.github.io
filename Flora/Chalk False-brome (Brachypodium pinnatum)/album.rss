@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Chalk False-brome (Brachypodium pinnatum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05713</title>
+            <link>http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05713.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:14:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/thumbs/DSC05713.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05713.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 13:10:58 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05713.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05714</title>
+            <link>http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05714.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:14:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/thumbs/DSC05714.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05714.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 13:11:03 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05714.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05715</title>
+            <link>http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05715.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:14:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/thumbs/DSC05715.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05715.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 13:11:10 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05715.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05716</title>
+            <link>http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05716.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:14:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/thumbs/DSC05716.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Chalk%20False-brome%20%28Brachypodium%20pinnatum%29/slides/DSC05716.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 13:11:17 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05716.JPG</guid>
+        </item>
+    </channel>
+</rss>

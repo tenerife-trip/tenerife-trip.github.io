@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>African milkbush (Euphorbia tirucalli)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05695</title>
+            <link>http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05695.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:12:39 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/thumbs/DSC05695.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05695.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 12:26:27 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05695.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05696</title>
+            <link>http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05696.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:12:39 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/thumbs/DSC05696.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05696.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 12:26:18 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05696.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05697</title>
+            <link>http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05697.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:12:39 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/thumbs/DSC05697.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05697.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 12:26:22 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05697.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05698</title>
+            <link>http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05698.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:12:39 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/thumbs/DSC05698.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/African%20milkbush%20%28Euphorbia%20tirucalli%29/slides/DSC05698.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 27 Nov 2018 12:26:27 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05698.JPG</guid>
+        </item>
+    </channel>
+</rss>

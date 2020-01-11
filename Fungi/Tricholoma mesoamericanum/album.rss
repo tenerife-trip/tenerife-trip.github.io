@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Tricholoma mesoamericanum</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/</jalbum:absolutePath>
+        <item>
+            <title>DSC05811</title>
+            <link>http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05811.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:48 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/thumbs/DSC05811.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05811.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:16:41 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05811.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05812</title>
+            <link>http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05812.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:48 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/thumbs/DSC05812.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05812.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:16:51 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05812.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05813</title>
+            <link>http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05813.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:48 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/thumbs/DSC05813.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05813.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:17:02 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05813.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05814</title>
+            <link>http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05814.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:48 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/thumbs/DSC05814.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Tricholoma%20mesoamericanum/slides/DSC05814.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:16:41 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05814.JPG</guid>
+        </item>
+    </channel>
+</rss>

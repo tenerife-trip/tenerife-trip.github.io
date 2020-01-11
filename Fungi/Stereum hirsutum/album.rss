@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Stereum hirsutum</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/</jalbum:absolutePath>
+        <item>
+            <title>DSC05840</title>
+            <link>http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/slides/DSC05840.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/thumbs/DSC05840.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/slides/DSC05840.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:43:07 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05840.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05841</title>
+            <link>http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/slides/DSC05841.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/thumbs/DSC05841.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Stereum%20hirsutum/slides/DSC05841.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:43:18 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05841.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Pholiota lenta</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Pholiota%20lenta/</jalbum:absolutePath>
+        <item>
+            <title>DSC05847</title>
+            <link>http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05847.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/thumbs/DSC05847.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05847.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:45:53 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05847.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05848</title>
+            <link>http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05848.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/thumbs/DSC05848.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05848.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:46:01 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05848.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05849</title>
+            <link>http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05849.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/thumbs/DSC05849.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05849.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:46:12 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05849.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05850</title>
+            <link>http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05850.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:21:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/thumbs/DSC05850.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Pholiota%20lenta/slides/DSC05850.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 14:45:53 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05850.JPG</guid>
+        </item>
+    </channel>
+</rss>

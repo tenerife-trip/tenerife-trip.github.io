@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Laccaria bicolor</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/</jalbum:absolutePath>
+        <item>
+            <title>DSC05952</title>
+            <link>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05952.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/thumbs/DSC05952.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05952.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:57:57 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05952.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05953</title>
+            <link>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05953.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/thumbs/DSC05953.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05953.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:58:02 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05953.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05954</title>
+            <link>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05954.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/thumbs/DSC05954.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05954.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:58:06 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05954.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05955</title>
+            <link>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05955.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/thumbs/DSC05955.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05955.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:58:12 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05955.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05956</title>
+            <link>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05956.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/thumbs/DSC05956.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05956.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:58:33 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05956.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05957</title>
+            <link>http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05957.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/thumbs/DSC05957.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Laccaria%20bicolor/slides/DSC05957.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 16:58:36 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05957.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Willow-leaved carlina (Carlina salicifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC06575</title>
+            <link>http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/slides/DSC06575.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:18:17 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/thumbs/DSC06575.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/slides/DSC06575.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 04 Dec 2018 18:29:59 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06575.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06576</title>
+            <link>http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/slides/DSC06576.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:18:17 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/thumbs/DSC06576.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/slides/DSC06576.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Tue, 04 Dec 2018 18:30:09 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06576.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06577</title>
+            <link>http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/slides/DSC06577.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:18:17 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/thumbs/DSC06577.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Willow-leaved%20carlina%20%28Carlina%20salicifolia%29/slides/DSC06577.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 04 Dec 2018 18:30:15 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06577.JPG</guid>
+        </item>
+    </channel>
+</rss>

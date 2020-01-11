@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Tower Mustard (Turritis brassica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC06723</title>
+            <link>http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/slides/DSC06723.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:17:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/thumbs/DSC06723.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/slides/DSC06723.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 06 Dec 2018 11:53:15 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06723.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06724</title>
+            <link>http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/slides/DSC06724.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:17:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/thumbs/DSC06724.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/slides/DSC06724.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 06 Dec 2018 11:53:25 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06724.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06725</title>
+            <link>http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/slides/DSC06725.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:17:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/thumbs/DSC06725.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Tower%20Mustard%20%28Turritis%20brassica%29/slides/DSC06725.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 06 Dec 2018 11:53:34 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06725.JPG</guid>
+        </item>
+    </channel>
+</rss>

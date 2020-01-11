@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Glossy nightshade (Solanum americanum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC06002</title>
+            <link>http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06002.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:06 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/thumbs/DSC06002.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06002.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 18:15:18 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06002.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06003</title>
+            <link>http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06003.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:06 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/thumbs/DSC06003.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06003.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 18:15:26 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06003.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06004</title>
+            <link>http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06004.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:06 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/thumbs/DSC06004.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06004.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 18:15:35 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06004.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06005</title>
+            <link>http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06005.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:06 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/thumbs/DSC06005.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06005.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 18:15:55 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06005.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06006</title>
+            <link>http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06006.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:06 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/thumbs/DSC06006.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Glossy%20nightshade%20%28Solanum%20americanum%29/slides/DSC06006.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 18:16:02 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06006.JPG</guid>
+        </item>
+    </channel>
+</rss>

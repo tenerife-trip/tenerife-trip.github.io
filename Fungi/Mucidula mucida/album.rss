@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mucidula mucida</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Mucidula%20mucida/</jalbum:absolutePath>
+        <item>
+            <title>DSC05890</title>
+            <link>http://tenerife-trip.cc/Fungi/Mucidula%20mucida/slides/DSC05890.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:37 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Mucidula%20mucida/thumbs/DSC05890.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Mucidula%20mucida/slides/DSC05890.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 15:04:40 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05890.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05891</title>
+            <link>http://tenerife-trip.cc/Fungi/Mucidula%20mucida/slides/DSC05891.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:20:37 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Mucidula%20mucida/thumbs/DSC05891.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Mucidula%20mucida/slides/DSC05891.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2018 15:04:47 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05891.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Marguerite daisy (Argyranthemum frutescens)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC06600</title>
+            <link>http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/slides/DSC06600.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:41 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/thumbs/DSC06600.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/slides/DSC06600.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 05 Dec 2018 14:42:04 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06600.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06601</title>
+            <link>http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/slides/DSC06601.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 02:15:41 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/thumbs/DSC06601.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Flora/Marguerite%20daisy%20%28Argyranthemum%20frutescens%29/slides/DSC06601.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 05 Dec 2018 14:42:18 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06601.JPG</guid>
+        </item>
+    </channel>
+</rss>
