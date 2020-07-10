@@ -32,8 +32,11 @@ global: {
 	navType:'overlay',
 	navOverlayWidth:45,
 	autoFitSpace:15,
-	enableWrap:false,
-	autoEndVideo:false,
+	doSlideshow:true,
+	slideInterval:8,
+	startPaused:true,
+	afterSlideshow:'loop',
+	enableWrap:true,
 	autoPlayVideo:false,
 	addVideoThumb:false
 },

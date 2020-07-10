@@ -1,4 +1,4 @@
-/* jAlbum 19.2 with Pluto 18.1, Light style, album creation date 1/11/20, 3:44 AM */
+/* jAlbum 20.2.7 with Pluto 18.1, Light style, album creation date 7/10/20, 10:06 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -136,7 +136,7 @@ video {
 	text-decoration: underline;
 }
 .pl-navleft {
-	width: 114px;
+	width: 166px;
 	height: 32px;
 	text-align: left;
 	float: left;
@@ -150,7 +150,7 @@ video {
 	cursor: pointer;
 }
 .pl-navright {
-	width: 114px;
+	width: 166px;
 	height: 32px;
 	float: right;
 }
@@ -297,6 +297,22 @@ video {
 .pl-credits a {
 	text-decoration: underline;
 }
+#pl-pagetop {
+	background-color: #bbbbbb;
+	position: fixed;
+	bottom: 40px;
+	left: 10px;
+	opacity: 0.75;
+	display: none;
+}
+#pl-pagetop img {
+	width: 32px;
+	height: 32px;
+	padding: 10px 5px 5px;
+}
+#pl-pagetop:hover {
+	cursor: pointer;
+}
 .pl-slidetitle {
 	font-size: 14px;
 	font-weight: bold;
@@ -328,6 +344,91 @@ video {
 }
 .pl-comment a:hover {
 	color: #999999;
+}
+.pl-navleftip {
+	width: 52px;
+	height: 32px;
+	text-align: right;
+	float: left;
+	font-size: 0px;
+}
+.pl-navleftip img {
+	width: 32px;
+	height: 32px;
+	cursor: pointer;
+}
+.pl-navrightip {
+	width: 52px;
+	height: 32px;
+	float: right;
+}
+.pl-pagetitleip {
+	color: #111111;
+	font-size: 22px;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: none;
+	padding-bottom: 3px;
+}
+.pl-pagetitleip a {
+	color: #111111;
+	text-decoration: underline;
+}
+.pl-ipbox {
+	padding: 15px 20px 20px;
+}
+.pl-ipbox > div {
+	max-width: 1590px;
+	margin: 0px auto;
+}
+.pl-ipbox > div > div {
+	background-color: #bbbbbb;
+	overflow: hidden;
+}
+.pl-ipimage {
+	float: left;
+	padding: 10px 10px 5px 10px;
+}
+.pl-ipimage img {
+}
+.pl-iptext {
+	color: #111111;
+	padding: 10px;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: none;
+	text-align: left;
+}
+.pl-iptext a {
+	color: #111111;
+	text-decoration: underline;
+}
+.pl-iptext a:hover {
+	color: #999999;
+}
+.pl-ipcontact {
+	color: #111111;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: none;
+	padding-bottom: 8px;
+	clear: both;
+}
+.pl-ipcontact a {
+	color: #111111;
+	text-decoration: none;
+}
+.pl-ipcontact a:hover {
+	color: #999999;
+}
+.pl-ipcontact img {
+	vertical-align: middle;
+	padding: 0px 5px;
 }
 .pl-footer {
 	padding: 0px 0px 5px;

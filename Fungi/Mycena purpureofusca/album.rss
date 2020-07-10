@@ -5,28 +5,28 @@
     <channel>
         <title>Mycena purpureofusca</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/</jalbum:absolutePath>
         <item>
             <title>DSC05912</title>
-            <link>http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05912.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 03:42:09 +0200</pubDate>
+            <link>https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05912.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 01:46:57 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/thumbs/DSC05912.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05912.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/thumbs/DSC05912.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05912.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Wed, 28 Nov 2018 15:41:24 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC05912.JPG</guid>
         </item>
         <item>
             <title>DSC05913</title>
-            <link>http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05913.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 03:42:09 +0200</pubDate>
+            <link>https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05913.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 01:46:57 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/thumbs/DSC05913.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05913.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/thumbs/DSC05913.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://tenerife-trip.cc/Fungi/Mycena%20purpureofusca/slides/DSC05913.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Wed, 28 Nov 2018 15:41:33 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC05913.JPG</guid>
         </item>
