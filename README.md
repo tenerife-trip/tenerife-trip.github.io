@@ -1,4 +1,4 @@
-# tenerife-trip.github.io
+# TENERIFE-TRIP.CC
 
 Boris Melikian Expeditions Collection.
 Tenerife, Canary Islands. Winter 2018.
