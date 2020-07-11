@@ -35,12 +35,12 @@ global: {
 	doSlideshow:true,
 	slideInterval:8,
 	startPaused:true,
-	afterSlideshow:'loop',
-	enableWrap:true,
+	afterSlideshow:'exit',
 	autoPlayVideo:false,
 	addVideoThumb:false
 },
 mobile: {
+	padding:0,
 	minBoxWidth:140,
 	showItemNumber:false,
 	strictCentering:false,

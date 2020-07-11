@@ -1,4 +1,4 @@
-/* jAlbum 20.2.7 with Pluto 18.1, Light style, album creation date 7/10/20, 10:06 PM */
+/* jAlbum 20.2.7 with Pluto 30, Light style, album creation date 7/11/20, 2:58 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -35,9 +35,8 @@ video {
 	from {opacity: 0;}
 	to {opacity: 1;}
 }
-.pl-noparanav > div {
+#pl-noparanav > div {
 	margin: 0px auto;
-	max-width: 1620px;
 	min-height: 32px;
 	padding: 5px;
 }
@@ -50,7 +49,7 @@ video {
 	overflow-y: scroll;
 	overflow-x: hidden;
 }
-.pl-paranav {
+#pl-paranav {
 	box-sizing: border-box;
 	min-height: 40vw;
 	padding: 30vw 0px 5vw;
@@ -58,10 +57,10 @@ video {
 	transform-style: inherit;
 	width: 100vw;
 }
-.pl-paranav, .pl-paranav:before {
+#pl-paranav, #pl-paranav:before {
 	background: 50% 50% / cover;
 }
-.pl-paranav::before {
+#pl-paranav::before {
 	bottom: 0;
 	content: "";
 	left: 0;
@@ -71,20 +70,19 @@ video {
 	display: block;
 	background-image: url('../pl-theme.jpg');
 	background-size: cover;
-	transform-origin: center center 0;
 	transform: translateZ(-1px) scale(2);
 	z-index: -1;
 	min-height: 100vh;
 }
-.pl-paranav * {
+#pl-paranav * {
 	margin: 0;
 }
-.pl-paranav img {
+#pl-paranav img {
 	padding: 5px 0px;
 }
 .pl-pagetitle {
 	color: #111111;
-	font-size: 68px;
+	font-size: 22px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
@@ -97,7 +95,7 @@ video {
 }
 .pl-pagedescription {
 	color: #111111;
-	font-size: 24px;
+	font-size: 16px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -108,9 +106,9 @@ video {
 	text-decoration: underline;
 }
 .pl-pagetitleTI {
-	background-color: rgba(0,0,0,0.3);
+	background-color: #0000004c;
 	color: #ffffff;
-	font-size: 72px;
+	font-size: 36px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -122,9 +120,9 @@ video {
 	text-decoration: underline;
 }
 .pl-pagedescriptionTI {
-	background-color: rgba(0,0,0,0.3);
+	background-color: #0000004c;
 	color: #ffffff;
-	font-size: 36px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -135,21 +133,20 @@ video {
 	color: #ffffff;
 	text-decoration: underline;
 }
-.pl-navleft {
+#pl-navleft {
 	width: 166px;
 	height: 32px;
 	text-align: left;
 	float: left;
 	font-size: 0px;
-	z-index: 10;
 }
-.pl-navleft img {
+#pl-navleft img {
 	width: 32px;
 	height: 32px;
 	margin-left: 20px;
 	cursor: pointer;
 }
-.pl-navright {
+#pl-navright {
 	width: 166px;
 	height: 32px;
 	float: right;
@@ -206,25 +203,14 @@ video {
 .jg-entry {
 	position: relative;
 }
-.pl-folderoverlay img {
-	position: absolute;
-	top: 5px;
-	left: 5px;
-	width: 36px;
-	height: 28px;
-}
-.pl-folderoverlay img:hover {
-	transform: none !important;
-}
 .pl-videooverlay img {
 	position: absolute;
-	top: 5px;
-	left: 5px;
-	width: 36px;
-	height: 36px;
-}
-.pl-videooverlay img:hover {
-	transform: none !important;
+	top: 50%;
+	left: 50%;
+	margin-top: -120px !important;
+	margin-left: -120px !important;
+	width: 241px;
+	height: 241px;
 }
 .pl-thumbcaption, .pl-fthumbcaption {
 	overflow-wrap: break-word;
@@ -251,6 +237,13 @@ video {
 }
 .pl-foldercomment a {
 	text-decoration: underline;
+}
+.pl-fcount {
+	font-size: 12px;
+	font-weight: normal;
+	font-style: italic;
+	font-variant: normal;
+	text-shadow: none;
 }
 .pl-imagetitle {
 	font-size: 12px;
@@ -314,6 +307,7 @@ video {
 	cursor: pointer;
 }
 .pl-slidetitle {
+	font-family: Verdana, Geneva, sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	font-style: normal;
@@ -330,6 +324,7 @@ video {
 	color: #999999;
 }
 .pl-slidecomment {
+	font-family: Verdana, Geneva, sans-serif;
 	font-size: 12px;
 	font-weight: normal;
 	font-style: normal;
@@ -345,20 +340,21 @@ video {
 .pl-comment a:hover {
 	color: #999999;
 }
-.pl-navleftip {
-	width: 52px;
+#pl-navleftip {
+	width: 104px;
 	height: 32px;
-	text-align: right;
+	text-align: left;
 	float: left;
 	font-size: 0px;
 }
-.pl-navleftip img {
+#pl-navleftip img {
 	width: 32px;
 	height: 32px;
+	margin-left: 20px;
 	cursor: pointer;
 }
-.pl-navrightip {
-	width: 52px;
+#pl-navrightip {
+	width: 104px;
 	height: 32px;
 	float: right;
 }
