@@ -12,7 +12,6 @@ document.onkeydown = function(e) {
 function goindex() {
 	window.location.href=window.location.search.substring(1);
 }
-
 function fixTitlebar() {
 	if(window.innerWidth < 650) {
 		var navH = $('#pl-navleftip').outerHeight(false);
@@ -25,7 +24,6 @@ function fixTitlebar() {
 		$('.pl-pagetitleip').css({'padding-top': (5 + navH).toString() + 'px'});
 	}
 };
-
 function topScroll() {
 	$(window).scroll(function(){
 		if($(window).scrollTop() > 400) {
@@ -40,6 +38,8 @@ function topScroll() {
 		return false;
 	});
 };
-
-$(document).ready(fixTitlebar);
-$(document).ready(topScroll);
+function init() {
+	fixTitlebar();
+	topScroll();
+};
+$(document).ready(init);

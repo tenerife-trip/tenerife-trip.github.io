@@ -1,26 +1,29 @@
 <!DOCTYPE html>
-<html style="background-color:#000;">
+<html style="background-color:#000;" lang="en">
 <head>
 <meta charset="utf-8"/>
 <title>Video Player - Floatbox</title>
 <script>
 ( function () {
+	var
+		$container,
+		$player,
+		posterPath;
 
 	function init () {
 		var
-			$container = fb.$( 'container' ),
-			$player = document.createElement( 'video' ),
 			$mp4Source = document.createElement( 'source' ),
 			$webmSource = document.createElement( 'source' ),
 			params = fb.deserialize( location.search.substring( 1 ) ),
 			mp4Path = params.source,
 			webmPath = mp4Path.replace( /\.mp4\b/i, '.webm' ),
-			posterPath = params.poster == 'null' ? null : params.poster || mp4Path.replace( /\.mp4\b/i, '.jpg' ),
 			autoPlay = params.autoplay != '0',
-			autoEnd = params.autoend != '0',
 			esc = params.esc != 'false',
 			tapState;
 
+		$container = fb.$( 'container' );
+		$player = document.createElement( 'video' );
+		posterPath = params.poster == 'null' ? null : params.poster || mp4Path.replace( /\.mp4\b/i, '.jpg' );
 		$mp4Source.type = 'video/mp4';
 		$mp4Source.src = mp4Path;
 		$player.appendChild( $mp4Source );
@@ -37,14 +40,13 @@
 			poster: autoPlay ? null : posterPath
 		} );
 
+		fb.addEvent( window, 'message', messageHandler );
 		fb.addEvent( $player, [ 'mousedown', 'touchstart', 'mouseup', 'touchend' ], onTap );
+		fb.addEvent( $player, 'ended', onFinish );
+		fb.addEvent( $webmSource, 'error', onError );
 		if ( esc ) {
 			fb.addEvent( document, 'keydown', onKey, true );
 		}
-		if ( autoEnd ) {
-			fb.addEvent( $player, 'ended', onFinish );
-		}
-		fb.addEvent( $webmSource, 'error', onError );
 
 		$container.style.backgroundColor = params.bgcolor || 'transparent';
 		$container.appendChild( $player );
@@ -55,7 +57,7 @@
 		if ( $player.canPlayType ) {
 			if ( autoPlay ) {
 				autoPlay = $player.play();
-				if ( $player.paused !== false && !( "Promise" in window && autoPlay instanceof Promise ) ) {
+				if ( $player.paused !== false && !( 'Promise' in window && autoPlay instanceof Promise ) ) {
 					fb.attr( $player, 'poster', posterPath );
 					$player.load();
 				}
@@ -92,13 +94,12 @@
 		function onKey ( e ) {
 			if ( e.keyCode == 27 ) {
 				fb.stopEvent( e );
-				onFinish( 'end' );
+				onFinish( 'esc' );
 			}
 		}
 
 		function onFinish ( msg ) {
-			$container.innerHTML = '';
-			parent.postMessage( JSON.stringify( { 'event': msg == 'end' ? msg : 'finish' } ), '*' );
+			parent.postMessage( { 'event': msg.type || msg }, document.referrer );
 		}
 
 		function onError () {
@@ -107,6 +108,14 @@
 				a = fb.select( 'a', p, 0 );
 			a.href = a.innerHTML = mp4Path;
 			p.style.display = 'block';
+		}
+	}  // init
+
+	function messageHandler ( e ) {
+		// Receive instructions from core
+		if ( e.data.action == 'load' ) {
+			fb.attr( $player, 'poster', posterPath );
+			$player.load();
 		}
 	}
 
@@ -119,7 +128,7 @@
 	}
 
 	self.fbOptions = {
-		scriptPath: ( getParam( 'fb' ) || '../' ) + 'floatbox.js',
+		scriptPath: getParam( 'fb' ),
 		ready: [ init ]
 	};
 

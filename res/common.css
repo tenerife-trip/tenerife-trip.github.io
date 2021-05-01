@@ -1,4 +1,4 @@
-/* jAlbum 20.2.7 with Pluto 30, Light style, album creation date 7/11/20, 3:34 PM */
+/* jAlbum 23.2.4 with Pluto 43, Light style, album creation date 5/1/21, 9:59 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -24,6 +24,10 @@ a, video {
 }
 img, iframe {
 	border: none;
+}
+img {
+	user-select: none;
+	-webkit-user-select: none; /* Safari */
 }
 video {
 	width: 100%;
@@ -185,7 +189,7 @@ video {
 .pl-infotxtbottom a {
 	text-decoration: underline;
 }
-.pl-thumbbox {
+.pl-thumbbox, .pl-fthumbbox {
 	max-width: 1600px;
 	margin: 0 auto 10px;
 	padding: 0px 43px;
@@ -316,6 +320,8 @@ video {
 	padding: 0px 10px;
 	text-align: center;
 	text-shadow: none;
+	user-select: text;
+	-webkit-user-select: text; /* Safari */
 }
 .pl-slidetitle a {
 	text-decoration: underline;
@@ -333,12 +339,21 @@ video {
 	padding: 0px 10px;
 	text-align: center;
 	text-shadow: none;
+	user-select: text;
+	-webkit-user-select: text; /* Safari */
 }
 .pl-slidecomment a {
 	text-decoration: underline;
 }
-.pl-comment a:hover {
+.pl-slidecomment a:hover {
 	color: #999999;
+}
+@media (max-height: 500px) {
+	.pl-slidetitle, .pl-slidecomment {
+		text-overflow: ellipsis;
+		overflow: hidden;
+		white-space: nowrap;
+	}
 }
 #pl-navleftip {
 	width: 104px;
@@ -379,14 +394,18 @@ video {
 	margin: 0px auto;
 }
 .pl-ipbox > div > div {
-	background-color: #bbbbbb;
+	background-color: #d0d0d0;
 	overflow: hidden;
+	padding-bottom: 5px;
 }
 .pl-ipimage {
+	max-width: 200px;
 	float: left;
-	padding: 10px 10px 5px 10px;
+	padding: 10px 15px 0px 15px;
 }
 .pl-ipimage img {
+	width: 100%;
+	height: auto;
 }
 .pl-iptext {
 	color: #111111;
@@ -412,7 +431,7 @@ video {
 	font-style: normal;
 	font-variant: normal;
 	text-shadow: none;
-	padding-bottom: 8px;
+	padding: 10px;
 	clear: both;
 }
 .pl-ipcontact a {
@@ -426,45 +445,20 @@ video {
 	vertical-align: middle;
 	padding: 0px 5px;
 }
-.pl-footer {
-	padding: 0px 0px 5px;
-	height: 24px;
-	background-color: #eeeeee;
-	display: none;
-}
-.pl-footerprev {
-	float: left;
-	margin: 0px 0px 0px 14px;
-	width: 24px;
-	height: 24px;
-}
-.pl-footernext {
-	float: right;
-	margin: 0px 14px 0px 0px;
-	width: 24px;
-	height: 24px;
-}
-@media (max-width: 500px), (max-height: 500px) {
-	.pl-footer {
-		display: inherit;
-	}
-}
 .pl-bodyclosing {
 	margin: 5px;
 }
 .pl-disabled {
 	opacity: 0.5;
 }
-.pl-clear:after {
-	content: "";
-	display: table;
-	clear: both;
-}
 .pl-bodyspacer {
 	height: 30px;
 }
 .pl-hidden {
 	display: none;
+}
+.pl-pointer {
+	cursor: pointer;
 }
 i.fbxIcon {
 	font-size: 24px;
@@ -475,8 +469,11 @@ a.fbNextPanel {
 .fbPrev2 .fbxIcon, .fbNext2 .fbxIcon {
 	font-size: 32px;
 }
+.fbx .fbResizer {
+	display: none;
+}
 @media (max-width: 500px), (max-height: 500px) {
 	.fbPrev2 .fbxIcon, .fbNext2 .fbxIcon {
-		font-size: 18px;
+		font-size: 24px;
 	}
 }

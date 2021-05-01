@@ -47,6 +47,6 @@ mobile: {
 	imageTransition:'slide',
 	preloadLimit:1,
 	autoFitSpace:5,
-	showNavOverlay:false
+	enableImageResize:true
 }
 };
